@@ -1,0 +1,9 @@
+{
+  "name": "cold-outbound-skills",
+  "description": "Cold email skills: infrastructure, lead sourcing, copywriting, deliverability and signal playbooks",
+  "version": "1.0.0",
+  "author": { "name": "GrowthEngineX" },
+  "repository": "https://github.com/scalebep/Cold-Outbound-Skills",
+  "license": "MIT",
+  "skills": ["./skills", "./skills/playbooks"]
+}

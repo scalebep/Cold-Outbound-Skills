@@ -1,0 +1,14 @@
+{
+  "name": "coldoutboundskills",
+  "owner": { "name": "scalebep" },
+  "metadata": {
+    "description": "Cold outbound skills for Claude Code, based on growthenginenowoslawski/coldoutboundskills (MIT)"
+  },
+  "plugins": [
+    {
+      "name": "cold-outbound-skills",
+      "description": "Cold email skills: infrastructure, lead sourcing, copywriting, deliverability and signal playbooks",
+      "source": "./"
+    }
+  ]
+}
